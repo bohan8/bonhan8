@@ -1,0 +1,67 @@
+﻿<html>
+
+<head>
+<title>圖片操作</title>
+</head>
+
+<body>
+
+<h2>貓集合</h2>
+
+      將全部食材準備好。 雞蛋液打夾,牛番薯切丁,姜切末,備用 <p>
+   <p>
+      熱鍋加入適當油量，倒入蛋液，快速用鍋鏟以畫圓方式手炒至約七分熟，盛起。
+   <p>
+      再放入白飯，將白飯翻炒至米飯鬆散開。
+   <p>
+      同鍋加進一些許油，下蔥花爆香，倒進白飯，加黑胡椒，鹽調味，倒入剛盛起的番茄蛋。
+   <p>
+      再加入番薯醬，約1大勺量，翻炒均值。
+   <p>
+      起鍋前在灑少許蔥花，開動～
+   <p>
+
+<img  src ="001.JPG " alt ="001的貓" width ="400" height ="300">
+<img  src ="002.JPG " alt ="002的貓" width ="400" height ="300">
+<img  src ="003.JPG " alt ="003的貓" width ="400" height ="300">
+
+<h2>狗集合</h2>
+
+
+把所有食材準備好備用，蝦子洗淨剝皮，切蔥花、切蒜末 <p>
+      起油鍋，油熱了之後加入姜，在鍋中用鍋鏟快速捶打至凝固。
+   <p>
+      加入蒜末炒香之後再加入蝦仁。
+   <p>
+      再放入白飯，將白飯翻炒至米飯鬆散開。
+   <p>
+      加入醬油、鹽和黑胡椒炒鍋後，起鍋前再加入蔥花手盤。
+   <p>
+      起鍋。
+   <p>
+
+<img  src ="004.JPG "alt="004的狗" width ="400" height ="300">
+<img  src ="005.JPG "alt="005的狗" width ="400" height ="300">
+<img  src ="006.JPG "alt="006的狗" width ="400" height ="300">
+
+
+
+<p>練習用音樂、影片<p>
+
+<audio autoplay controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="002.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+<video width="800" height="600" controls>
+  <source src="001.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 
+
+</body>
+
+</html>
+
